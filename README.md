@@ -6,18 +6,13 @@
 
 ---
 
-<h3 align="center">🎮Aspiring Full-Stack Developer</h3>
+<h3 align="center">🛠️Aspiring Full-Stack Developer</h3>
 
 ---
 
-### 🎓 Education
-
-- 🇨🇳 Dalian University of Technology
-
-- 🇷🇺 Financial University under the Government of the Russian Federation ( in progress )
-
 ### 👨‍💻 About Me
 
+- 📌19 years old
 - 🎮 Game developer in Garry's Mod and s&box.
 - 🧩 3+ years in game development
 - 🧠 Worked on large-scale Garry's Mod projects:
@@ -25,6 +20,12 @@
     - **InfinityRP**
 - ⚙️ Backend developer (FastAPI, WebSockets, microservices)
 - 🔗 Full-stack game architecture (client + server + backend)
+
+### 🎓 Education
+
+- 🇨🇳 Dalian University of Technology
+
+- 🇷🇺 Financial University under the Government of the Russian Federation ( in progress )
 
 ---
 
