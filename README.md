@@ -30,7 +30,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,cs,python,fastapi,postgres,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,python,react,ts,fastapi,postgres,git,docker,linux" />
 </p>
 
 ---
