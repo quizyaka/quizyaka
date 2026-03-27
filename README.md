@@ -19,6 +19,7 @@
 ### 👨‍💻 About Me
 
 - 🎮 Game developer in Garry's Mod and s&box.
+- 🧩 3+ years in game development
 - 🧠 Worked on large-scale Garry's Mod projects:
     - **MagicRP**
     - **InfinityRP**
@@ -49,15 +50,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quizyaka&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
-
----
-
-### ⚡ Key Metrics
-
-- 🧩 3+ years in game development
-- 🌐 Full-cycle development: gameplay → UI → backend
-- 🔁 Real-time systems (RPC, Sync, WebSockets)
-- 🏗 Custom systems: inventory, weapons, UI frameworks
-- 📦 Microservices architecture for game servers
 
 ---
